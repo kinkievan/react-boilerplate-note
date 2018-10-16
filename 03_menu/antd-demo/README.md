@@ -11,7 +11,7 @@ menu 元件說明參考(https://ant.design/components/menu-cn/)
 參考ant design pro 畫面
 
 
-![DEMO](../../assets/menu.png)
+![](../../assets/menu.png)
 
 
 程式碼:產生menu
@@ -132,9 +132,9 @@ export default BasicLayout;
 1. BasicLayout 將header、sider、footer 都拆成組件,Basiclayout程式碼好維護
 2. 產生
 
-![DEMO](../../assets/layoutfile.png)
+![](../../assets/layoutfile.png)
 
-![DEMO](../../assets/basiclayout.png)
+![](../../assets/basiclayout.png)
 ```js
 import React from 'react';
 import { Layout } from 'antd';
@@ -192,7 +192,7 @@ yarn add react-router-dom
 
 
 ### Step 7. 產生點選menu 需顯示頁面
-![DEMO](../../assets/dashboard.png)
+![](../../assets/dashboard.png)
 
 
 ```js
